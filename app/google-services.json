@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898558796078",
+    "project_id": "contact-management-d327c",
+    "storage_bucket": "contact-management-d327c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898558796078:android:12a5f76c81c429e950dabf",
+        "android_client_info": {
+          "package_name": "com.contactmgt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898558796078-jcoeeltkh7b3osuq9u7co6jnqftu1ps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0JJEOA7JR-9VRsml4MVj_b0S9DCtDjXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898558796078-jcoeeltkh7b3osuq9u7co6jnqftu1ps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
