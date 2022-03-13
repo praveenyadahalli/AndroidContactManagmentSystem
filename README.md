@@ -1,4 +1,7 @@
 # ContactManagement
+
+![contact_management](https://user-images.githubusercontent.com/58703548/158056598-a5d060ec-b817-4f65-9c64-6e925f9d530b.png)
+
 Install Android Studio.
 Download the source code from this repository.
 Unzip the downloaded code.
